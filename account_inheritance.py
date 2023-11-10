@@ -3,7 +3,7 @@ from Accounts import SavingsAccount
 print("Lol")
 
 # Prompt the user to set the savings balance and interest rate.
-# ADD YOUR CODE HERE
+print("Time to study")
 
 # Create an instance of the `SavingsAccount` class that sets the users savings account balance and interest.
 # ADD YOUR CODE HERE
