@@ -1,6 +1,6 @@
 # Import the SavingsAccount and CD classes from the Accounts.py file.
 from Accounts import SavingsAccount
-
+print("Lol")
 
 # Prompt the user to set the savings balance and interest rate.
 # ADD YOUR CODE HERE
